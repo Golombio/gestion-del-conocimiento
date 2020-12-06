@@ -1,1 +1,1 @@
-# gestion-del-conocimiento
+# Gestion-del-conocimiento
